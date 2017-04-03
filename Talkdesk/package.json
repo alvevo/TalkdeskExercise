@@ -1,0 +1,11 @@
+{
+  "name": "talkdesk_exercise",
+  "version": "1.0.0",
+  "description": "Talkdesk's recruitment process exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nuno Fernandes",
+  "license": "ISC"
+}
