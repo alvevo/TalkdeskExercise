@@ -14,4 +14,5 @@ The exercise was performed using Node, and is structured in the following manner
 ---------- USAGE ----------
 1. Open 'Talkdesk' folder
 2. Run the exercise: $ node index.js <input_file>
+
 With the provided sample input file: $ node index.js input.txt
