@@ -12,7 +12,6 @@ The exercise was performed using Node, and is structured in the following manner
 -> scripts directory: contains the script where all the logic is performed
 
 ---------- USAGE ----------
-
-$ node index.js <input_file>
-
+1. Open 'Talkdesk' folder
+2. Run the exercise: $ node index.js <input_file>
 With the provided sample input file: $ node index.js input.txt
